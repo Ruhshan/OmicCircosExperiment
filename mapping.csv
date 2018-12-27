@@ -1,0 +1,9 @@
+chr,po,gene,value
+chr1,0,gene1,10
+chr1,10,gene2,7
+chr1,20,gene3,12
+chr2,0,gene4,20
+chr2,5,gene5,5
+chr2,15,gene6,10
+chr3,0,gene7,25
+chr3,15,gene8,14

@@ -1,0 +1,9 @@
+chr,start,end,gene,desc
+chr1,0,10,gene1,desc1
+chr1,10,20,gene2,desc2
+chr1,20,50,gene3,desc3
+chr2,0,5,gene4,desc4
+chr2,5,15,gene5,desc5
+chr2,15,25,gene6,desc6
+chr3,0,15,gene7,desc7
+chr3,15,40,gene8,desc8
